@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 7887d59f7d0cbf840ad6fe1fb27780cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: circle
+    100002: circle001
+    100004: crystal
+    100006: crystal001
+    100008: //RootNode
+    100010: steel_box
+    100012: steel_box001
+    100014: "\uAE30\uB465"
+    100016: "\uAE30\uB465001"
+    100018: "\uAE30\uB465002"
+    100020: "\uAE30\uB465003"
+    100022: "\uBB38003"
+    100024: "\uBB382"
+    400000: circle
+    400002: circle001
+    400004: crystal
+    400006: crystal001
+    400008: //RootNode
+    400010: steel_box
+    400012: steel_box001
+    400014: "\uAE30\uB465"
+    400016: "\uAE30\uB465001"
+    400018: "\uAE30\uB465002"
+    400020: "\uAE30\uB465003"
+    400022: "\uBB38003"
+    400024: "\uBB382"
+    2100000: door
+    2100002: white
+    2100004: No Name
+    2300000: circle
+    2300002: circle001
+    2300004: crystal
+    2300006: crystal001
+    2300008: steel_box
+    2300010: steel_box001
+    2300012: "\uAE30\uB465"
+    2300014: "\uAE30\uB465001"
+    2300016: "\uAE30\uB465002"
+    2300018: "\uAE30\uB465003"
+    2300020: "\uBB38003"
+    2300022: "\uBB382"
+    3300000: circle
+    3300002: circle001
+    3300004: crystal
+    3300006: crystal001
+    3300008: steel_box
+    3300010: steel_box001
+    3300012: "\uAE30\uB465"
+    3300014: "\uAE30\uB465001"
+    3300016: "\uAE30\uB465002"
+    3300018: "\uAE30\uB465003"
+    3300020: "\uBB38003"
+    3300022: "\uBB382"
+    4300000: "\uBB382"
+    4300002: "\uBB38003"
+    4300004: "\uAE30\uB465"
+    4300006: "\uAE30\uB465001"
+    4300008: "\uAE30\uB465002"
+    4300010: "\uAE30\uB465003"
+    4300012: steel_box
+    4300014: crystal
+    4300016: circle
+    4300018: steel_box001
+    4300020: crystal001
+    4300022: circle001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
