@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: aaafc78f0f7906b4e9ce3861a636c02c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: crystal
+    100002: crystal 1
+    100004: crystal001
+    100006: crystal002
+    100008: Cylinder031
+    100010: Cylinder032
+    100012: floor
+    100014: floor001
+    100016: glass_window
+    100018: glass_window 1
+    100020: gretel
+    100022: hansel_window
+    100024: Particle View 001
+    100026: Particle View 001 1
+    100028: Particle View 001 2
+    100030: Particle View 001 3
+    100032: Particle View 001 4
+    100034: Particle View 001 5
+    100036: Particle View 001 6
+    100038: Particle View 001 7
+    100040: Particle View 001 8
+    100042: //RootNode
+    100044: wall
+    100046: wall001
+    100048: wall002
+    100050: wood_hand
+    100052: wood_hand001
+    100054: wood_window
+    100056: wood_window2
+    400000: crystal
+    400002: crystal 1
+    400004: crystal001
+    400006: crystal002
+    400008: Cylinder031
+    400010: Cylinder032
+    400012: floor
+    400014: floor001
+    400016: glass_window
+    400018: glass_window 1
+    400020: gretel
+    400022: hansel_window
+    400024: Particle View 001
+    400026: Particle View 001 1
+    400028: Particle View 001 2
+    400030: Particle View 001 3
+    400032: Particle View 001 4
+    400034: Particle View 001 5
+    400036: Particle View 001 6
+    400038: Particle View 001 7
+    400040: Particle View 001 8
+    400042: //RootNode
+    400044: wall
+    400046: wall001
+    400048: wall002
+    400050: wood_hand
+    400052: wood_hand001
+    400054: wood_window
+    400056: wood_window2
+    2100000: No Name
+    2100002: window
+    2300000: crystal
+    2300002: crystal 1
+    2300004: crystal001
+    2300006: crystal002
+    2300008: Cylinder031
+    2300010: Cylinder032
+    2300012: floor
+    2300014: floor001
+    2300016: glass_window
+    2300018: glass_window 1
+    2300020: gretel
+    2300022: hansel_window
+    2300024: wall
+    2300026: wall001
+    2300028: wall002
+    2300030: wood_hand
+    2300032: wood_hand001
+    2300034: wood_window
+    2300036: wood_window2
+    3300000: crystal
+    3300002: crystal 1
+    3300004: crystal001
+    3300006: crystal002
+    3300008: Cylinder031
+    3300010: Cylinder032
+    3300012: floor
+    3300014: floor001
+    3300016: glass_window
+    3300018: glass_window 1
+    3300020: gretel
+    3300022: hansel_window
+    3300024: wall
+    3300026: wall001
+    3300028: wall002
+    3300030: wood_hand
+    3300032: wood_hand001
+    3300034: wood_window
+    3300036: wood_window2
+    4300000: floor
+    4300002: wall
+    4300004: wall001
+    4300006: wall002
+    4300008: hansel_window
+    4300010: wood_window
+    4300012: gretel
+    4300014: wood_window2
+    4300016: glass_window
+    4300018: glass_window
+    4300020: wood_hand
+    4300022: Cylinder031
+    4300024: crystal
+    4300026: crystal
+    4300028: crystal001
+    4300030: Cylinder032
+    4300032: crystal002
+    4300034: wood_hand001
+    4300036: floor001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

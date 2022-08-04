@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 81f111e5acedaaa4f940b8918b44ba80
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: floor
+    100002: floor001
+    100004: glass_window
+    100006: glass_window 1
+    100008: glass_window001
+    100010: gretel
+    100012: hansel_window
+    100014: Particle View 001
+    100016: Particle View 001 1
+    100018: Particle View 001 2
+    100020: Particle View 001 3
+    100022: Particle View 001 4
+    100024: Particle View 001 5
+    100026: Particle View 001 6
+    100028: Particle View 001 7
+    100030: Particle View 001 8
+    100032: Pyramid001
+    100034: //RootNode
+    100036: wall
+    100038: wall001
+    100040: wall002
+    100042: wood_window
+    100044: wood_window003
+    100046: wood_window2
+    400000: floor
+    400002: floor001
+    400004: glass_window
+    400006: glass_window 1
+    400008: glass_window001
+    400010: gretel
+    400012: hansel_window
+    400014: Particle View 001
+    400016: Particle View 001 1
+    400018: Particle View 001 2
+    400020: Particle View 001 3
+    400022: Particle View 001 4
+    400024: Particle View 001 5
+    400026: Particle View 001 6
+    400028: Particle View 001 7
+    400030: Particle View 001 8
+    400032: Pyramid001
+    400034: //RootNode
+    400036: wall
+    400038: wall001
+    400040: wall002
+    400042: wood_window
+    400044: wood_window003
+    400046: wood_window2
+    2100000: No Name
+    2100002: window
+    2100004: 'Material #2'
+    2300000: floor
+    2300002: floor001
+    2300004: glass_window
+    2300006: glass_window 1
+    2300008: glass_window001
+    2300010: gretel
+    2300012: hansel_window
+    2300014: Pyramid001
+    2300016: wall
+    2300018: wall001
+    2300020: wall002
+    2300022: wood_window
+    2300024: wood_window003
+    2300026: wood_window2
+    3300000: floor
+    3300002: floor001
+    3300004: glass_window
+    3300006: glass_window 1
+    3300008: glass_window001
+    3300010: gretel
+    3300012: hansel_window
+    3300014: Pyramid001
+    3300016: wall
+    3300018: wall001
+    3300020: wall002
+    3300022: wood_window
+    3300024: wood_window003
+    3300026: wood_window2
+    4300000: floor
+    4300002: wall
+    4300004: wall001
+    4300006: wall002
+    4300008: hansel_window
+    4300010: wood_window
+    4300012: gretel
+    4300014: wood_window2
+    4300016: glass_window
+    4300018: glass_window
+    4300020: floor001
+    4300022: wood_window003
+    4300024: Pyramid001
+    4300026: glass_window001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

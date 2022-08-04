@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: aac3b4ad76a466c4cb9a10474db751a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: cage1
+    100004: cage1a
+    100006: cage2
+    100008: cage2a
+    100010: circle1
+    100012: circle2
+    100014: crystal1
+    100016: crystal2
+    100018: //RootNode
+    100020: gretel
+    100022: hansel
+    100024: heart
+    100026: Pillar
+    100028: Pillar 1
+    100030: we
+    100032: wing1
+    100034: wing1a
+    100036: wing2
+    100038: wing2a
+    100040: wing3
+    100042: wing3a
+    100044: wing4
+    100046: wing4a
+    400000: Box001
+    400002: cage1
+    400004: cage1a
+    400006: cage2
+    400008: cage2a
+    400010: circle1
+    400012: circle2
+    400014: crystal1
+    400016: crystal2
+    400018: //RootNode
+    400020: gretel
+    400022: hansel
+    400024: heart
+    400026: Pillar
+    400028: Pillar 1
+    400030: we
+    400032: wing1
+    400034: wing1a
+    400036: wing2
+    400038: wing2a
+    400040: wing3
+    400042: wing3a
+    400044: wing4
+    400046: wing4a
+    2100000: No Name
+    2100002: white
+    2100004: 'Material #2'
+    2300000: Box001
+    2300002: cage1
+    2300004: cage1a
+    2300006: cage2
+    2300008: cage2a
+    2300010: circle1
+    2300012: circle2
+    2300014: crystal1
+    2300016: crystal2
+    2300018: gretel
+    2300020: hansel
+    2300022: heart
+    2300024: Pillar
+    2300026: Pillar 1
+    2300028: we
+    2300030: wing1
+    2300032: wing1a
+    2300034: wing2
+    2300036: wing2a
+    2300038: wing3
+    2300040: wing3a
+    2300042: wing4
+    2300044: wing4a
+    3300000: Box001
+    3300002: cage1
+    3300004: cage1a
+    3300006: cage2
+    3300008: cage2a
+    3300010: circle1
+    3300012: circle2
+    3300014: crystal1
+    3300016: crystal2
+    3300018: gretel
+    3300020: hansel
+    3300022: heart
+    3300024: Pillar
+    3300026: Pillar 1
+    3300028: we
+    3300030: wing1
+    3300032: wing1a
+    3300034: wing2
+    3300036: wing2a
+    3300038: wing3
+    3300040: wing3a
+    3300042: wing4
+    3300044: wing4a
+    4300000: Box001
+    4300002: Pillar
+    4300004: Pillar
+    4300006: circle1
+    4300008: cage1
+    4300010: crystal1
+    4300012: wing1
+    4300014: wing2
+    4300016: cage1a
+    4300018: cage2
+    4300020: circle2
+    4300022: wing3
+    4300024: wing4
+    4300026: cage2a
+    4300028: crystal2
+    4300030: heart
+    4300032: we
+    4300034: hansel
+    4300036: gretel
+    4300038: wing1a
+    4300040: wing2a
+    4300042: wing4a
+    4300044: wing3a
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

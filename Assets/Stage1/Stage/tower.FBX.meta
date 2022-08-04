@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 282dc10757d064746abf95d7af929244
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: Box013
+    100026: Box014
+    100028: Box015
+    100030: Box017
+    100032: Box018
+    100034: Box019
+    100036: Box020
+    100038: Box021
+    100040: Box022
+    100042: Box023
+    100044: Box024
+    100046: Box025
+    100048: Box026
+    100050: Box027
+    100052: Box028
+    100054: Box029
+    100056: Box030
+    100058: Box031
+    100060: Box032
+    100062: Box033
+    100064: Box034
+    100066: Box035
+    100068: Box036
+    100070: Box037
+    100072: Box038
+    100074: Box039
+    100076: Box040
+    100078: Box041
+    100080: Box042
+    100082: Box043
+    100084: Box044
+    100086: Box045
+    100088: Box046
+    100090: Box047
+    100092: Box048
+    100094: Box049
+    100096: Box050
+    100098: Box051
+    100100: Box052
+    100102: Box053
+    100104: Box054
+    100106: Box055
+    100108: Box056
+    100110: Box058
+    100112: Box059
+    100114: Box060
+    100116: Box061
+    100118: Box062
+    100120: Box063
+    100122: Box064
+    100124: Box065
+    100126: Box066
+    100128: Box067
+    100130: Box068
+    100132: Box069
+    100134: Box070
+    100136: Box071
+    100138: Box072
+    100140: Box073
+    100142: Box074
+    100144: Box075
+    100146: Box076
+    100148: Box077
+    100150: Box078
+    100152: Box079
+    100154: Box080
+    100156: Box081
+    100158: Box082
+    100160: Box083
+    100162: Box084
+    100164: Box085
+    100166: Box086
+    100168: Box087
+    100170: Box088
+    100172: Box089
+    100174: Cylinder001
+    100176: Cylinder002
+    100178: Cylinder003
+    100180: Cylinder004
+    100182: Cylinder005
+    100184: Cylinder006
+    100186: Cylinder007
+    100188: Cylinder008
+    100190: Cylinder009
+    100192: Cylinder010
+    100194: door
+    100196: door001
+    100198: Object003
+    100200: Object004
+    100202: Object005
+    100204: Object006
+    100206: Particle View 001
+    100208: Particle View 001 1
+    100210: Particle View 001 10
+    100212: Particle View 001 11
+    100214: Particle View 001 12
+    100216: Particle View 001 13
+    100218: Particle View 001 14
+    100220: Particle View 001 15
+    100222: Particle View 001 16
+    100224: Particle View 001 17
+    100226: Particle View 001 18
+    100228: Particle View 001 19
+    100230: Particle View 001 2
+    100232: Particle View 001 20
+    100234: Particle View 001 21
+    100236: Particle View 001 22
+    100238: Particle View 001 23
+    100240: Particle View 001 24
+    100242: Particle View 001 25
+    100244: Particle View 001 26
+    100246: Particle View 001 27
+    100248: Particle View 001 28
+    100250: Particle View 001 29
+    100252: Particle View 001 3
+    100254: Particle View 001 30
+    100256: Particle View 001 31
+    100258: Particle View 001 32
+    100260: Particle View 001 33
+    100262: Particle View 001 34
+    100264: Particle View 001 35
+    100266: Particle View 001 36
+    100268: Particle View 001 37
+    100270: Particle View 001 38
+    100272: Particle View 001 39
+    100274: Particle View 001 4
+    100276: Particle View 001 40
+    100278: Particle View 001 41
+    100280: Particle View 001 5
+    100282: Particle View 001 6
+    100284: Particle View 001 7
+    100286: Particle View 001 8
+    100288: Particle View 001 9
+    100290: //RootNode
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: Box013
+    400026: Box014
+    400028: Box015
+    400030: Box017
+    400032: Box018
+    400034: Box019
+    400036: Box020
+    400038: Box021
+    400040: Box022
+    400042: Box023
+    400044: Box024
+    400046: Box025
+    400048: Box026
+    400050: Box027
+    400052: Box028
+    400054: Box029
+    400056: Box030
+    400058: Box031
+    400060: Box032
+    400062: Box033
+    400064: Box034
+    400066: Box035
+    400068: Box036
+    400070: Box037
+    400072: Box038
+    400074: Box039
+    400076: Box040
+    400078: Box041
+    400080: Box042
+    400082: Box043
+    400084: Box044
+    400086: Box045
+    400088: Box046
+    400090: Box047
+    400092: Box048
+    400094: Box049
+    400096: Box050
+    400098: Box051
+    400100: Box052
+    400102: Box053
+    400104: Box054
+    400106: Box055
+    400108: Box056
+    400110: Box058
+    400112: Box059
+    400114: Box060
+    400116: Box061
+    400118: Box062
+    400120: Box063
+    400122: Box064
+    400124: Box065
+    400126: Box066
+    400128: Box067
+    400130: Box068
+    400132: Box069
+    400134: Box070
+    400136: Box071
+    400138: Box072
+    400140: Box073
+    400142: Box074
+    400144: Box075
+    400146: Box076
+    400148: Box077
+    400150: Box078
+    400152: Box079
+    400154: Box080
+    400156: Box081
+    400158: Box082
+    400160: Box083
+    400162: Box084
+    400164: Box085
+    400166: Box086
+    400168: Box087
+    400170: Box088
+    400172: Box089
+    400174: Cylinder001
+    400176: Cylinder002
+    400178: Cylinder003
+    400180: Cylinder004
+    400182: Cylinder005
+    400184: Cylinder006
+    400186: Cylinder007
+    400188: Cylinder008
+    400190: Cylinder009
+    400192: Cylinder010
+    400194: door
+    400196: door001
+    400198: Object003
+    400200: Object004
+    400202: Object005
+    400204: Object006
+    400206: Particle View 001
+    400208: Particle View 001 1
+    400210: Particle View 001 10
+    400212: Particle View 001 11
+    400214: Particle View 001 12
+    400216: Particle View 001 13
+    400218: Particle View 001 14
+    400220: Particle View 001 15
+    400222: Particle View 001 16
+    400224: Particle View 001 17
+    400226: Particle View 001 18
+    400228: Particle View 001 19
+    400230: Particle View 001 2
+    400232: Particle View 001 20
+    400234: Particle View 001 21
+    400236: Particle View 001 22
+    400238: Particle View 001 23
+    400240: Particle View 001 24
+    400242: Particle View 001 25
+    400244: Particle View 001 26
+    400246: Particle View 001 27
+    400248: Particle View 001 28
+    400250: Particle View 001 29
+    400252: Particle View 001 3
+    400254: Particle View 001 30
+    400256: Particle View 001 31
+    400258: Particle View 001 32
+    400260: Particle View 001 33
+    400262: Particle View 001 34
+    400264: Particle View 001 35
+    400266: Particle View 001 36
+    400268: Particle View 001 37
+    400270: Particle View 001 38
+    400272: Particle View 001 39
+    400274: Particle View 001 4
+    400276: Particle View 001 40
+    400278: Particle View 001 41
+    400280: Particle View 001 5
+    400282: Particle View 001 6
+    400284: Particle View 001 7
+    400286: Particle View 001 8
+    400288: Particle View 001 9
+    400290: //RootNode
+    2100000: No Name
+    2100002: steel
+    2100004: black1
+    2100006: black2
+    2100008: black3
+    2100010: red
+    2100012: 'Material #133'
+    2100014: m1
+    2100016: block
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box017
+    2300032: Box018
+    2300034: Box019
+    2300036: Box020
+    2300038: Box021
+    2300040: Box022
+    2300042: Box023
+    2300044: Box024
+    2300046: Box025
+    2300048: Box026
+    2300050: Box027
+    2300052: Box028
+    2300054: Box029
+    2300056: Box030
+    2300058: Box031
+    2300060: Box032
+    2300062: Box033
+    2300064: Box034
+    2300066: Box035
+    2300068: Box036
+    2300070: Box037
+    2300072: Box038
+    2300074: Box039
+    2300076: Box040
+    2300078: Box041
+    2300080: Box042
+    2300082: Box043
+    2300084: Box044
+    2300086: Box045
+    2300088: Box046
+    2300090: Box047
+    2300092: Box048
+    2300094: Box049
+    2300096: Box050
+    2300098: Box051
+    2300100: Box052
+    2300102: Box053
+    2300104: Box054
+    2300106: Box055
+    2300108: Box056
+    2300110: Box058
+    2300112: Box059
+    2300114: Box060
+    2300116: Box061
+    2300118: Box062
+    2300120: Box063
+    2300122: Box064
+    2300124: Box065
+    2300126: Box066
+    2300128: Box067
+    2300130: Box068
+    2300132: Box069
+    2300134: Box070
+    2300136: Box071
+    2300138: Box072
+    2300140: Box073
+    2300142: Box074
+    2300144: Box075
+    2300146: Box076
+    2300148: Box077
+    2300150: Box078
+    2300152: Box079
+    2300154: Box080
+    2300156: Box081
+    2300158: Box082
+    2300160: Box083
+    2300162: Box084
+    2300164: Box085
+    2300166: Box086
+    2300168: Box087
+    2300170: Box088
+    2300172: Box089
+    2300174: Cylinder001
+    2300176: Cylinder002
+    2300178: Cylinder003
+    2300180: Cylinder004
+    2300182: Cylinder005
+    2300184: Cylinder006
+    2300186: Cylinder007
+    2300188: Cylinder008
+    2300190: Cylinder009
+    2300192: Cylinder010
+    2300194: door
+    2300196: door001
+    2300198: Object003
+    2300200: Object004
+    2300202: Object005
+    2300204: Object006
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box017
+    3300032: Box018
+    3300034: Box019
+    3300036: Box020
+    3300038: Box021
+    3300040: Box022
+    3300042: Box023
+    3300044: Box024
+    3300046: Box025
+    3300048: Box026
+    3300050: Box027
+    3300052: Box028
+    3300054: Box029
+    3300056: Box030
+    3300058: Box031
+    3300060: Box032
+    3300062: Box033
+    3300064: Box034
+    3300066: Box035
+    3300068: Box036
+    3300070: Box037
+    3300072: Box038
+    3300074: Box039
+    3300076: Box040
+    3300078: Box041
+    3300080: Box042
+    3300082: Box043
+    3300084: Box044
+    3300086: Box045
+    3300088: Box046
+    3300090: Box047
+    3300092: Box048
+    3300094: Box049
+    3300096: Box050
+    3300098: Box051
+    3300100: Box052
+    3300102: Box053
+    3300104: Box054
+    3300106: Box055
+    3300108: Box056
+    3300110: Box058
+    3300112: Box059
+    3300114: Box060
+    3300116: Box061
+    3300118: Box062
+    3300120: Box063
+    3300122: Box064
+    3300124: Box065
+    3300126: Box066
+    3300128: Box067
+    3300130: Box068
+    3300132: Box069
+    3300134: Box070
+    3300136: Box071
+    3300138: Box072
+    3300140: Box073
+    3300142: Box074
+    3300144: Box075
+    3300146: Box076
+    3300148: Box077
+    3300150: Box078
+    3300152: Box079
+    3300154: Box080
+    3300156: Box081
+    3300158: Box082
+    3300160: Box083
+    3300162: Box084
+    3300164: Box085
+    3300166: Box086
+    3300168: Box087
+    3300170: Box088
+    3300172: Box089
+    3300174: Cylinder001
+    3300176: Cylinder002
+    3300178: Cylinder003
+    3300180: Cylinder004
+    3300182: Cylinder005
+    3300184: Cylinder006
+    3300186: Cylinder007
+    3300188: Cylinder008
+    3300190: Cylinder009
+    3300192: Cylinder010
+    3300194: door
+    3300196: door001
+    3300198: Object003
+    3300200: Object004
+    3300202: Object005
+    3300204: Object006
+    4300000: Cylinder003
+    4300002: Cylinder004
+    4300004: door
+    4300006: Cylinder002
+    4300008: Cylinder001
+    4300010: Object003
+    4300012: Object004
+    4300014: Cylinder005
+    4300016: Box001
+    4300018: door001
+    4300020: Object005
+    4300022: Object006
+    4300024: Cylinder006
+    4300026: Cylinder007
+    4300028: Cylinder008
+    4300030: Cylinder009
+    4300032: Box089
+    4300034: Cylinder010
+    4300036: Box002
+    4300038: Box003
+    4300040: Box004
+    4300042: Box005
+    4300044: Box006
+    4300046: Box007
+    4300048: Box008
+    4300050: Box009
+    4300052: Box010
+    4300054: Box011
+    4300056: Box012
+    4300058: Box013
+    4300060: Box014
+    4300062: Box015
+    4300064: Box017
+    4300066: Box018
+    4300068: Box019
+    4300070: Box020
+    4300072: Box021
+    4300074: Box022
+    4300076: Box023
+    4300078: Box024
+    4300080: Box025
+    4300082: Box026
+    4300084: Box027
+    4300086: Box028
+    4300088: Box054
+    4300090: Box055
+    4300092: Box056
+    4300094: Box058
+    4300096: Box059
+    4300098: Box060
+    4300100: Box061
+    4300102: Box062
+    4300104: Box063
+    4300106: Box064
+    4300108: Box065
+    4300110: Box066
+    4300112: Box067
+    4300114: Box068
+    4300116: Box069
+    4300118: Box070
+    4300120: Box071
+    4300122: Box072
+    4300124: Box073
+    4300126: Box074
+    4300128: Box075
+    4300130: Box076
+    4300132: Box077
+    4300134: Box078
+    4300136: Box079
+    4300138: Box080
+    4300140: Box081
+    4300142: Box082
+    4300144: Box083
+    4300146: Box084
+    4300148: Box085
+    4300150: Box086
+    4300152: Box087
+    4300154: Box088
+    4300156: Box029
+    4300158: Box030
+    4300160: Box031
+    4300162: Box032
+    4300164: Box033
+    4300166: Box034
+    4300168: Box035
+    4300170: Box036
+    4300172: Box037
+    4300174: Box038
+    4300176: Box039
+    4300178: Box040
+    4300180: Box041
+    4300182: Box042
+    4300184: Box043
+    4300186: Box044
+    4300188: Box045
+    4300190: Box046
+    4300192: Box047
+    4300194: Box048
+    4300196: Box049
+    4300198: Box050
+    4300200: Box051
+    4300202: Box052
+    4300204: Box053
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
