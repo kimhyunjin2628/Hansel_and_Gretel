@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ground_true
+  - Ground_y
+  - Ground_y_F
+  - Ground_y_B
+  - Ground_y_L
+  - Ground_y_R
+  - stage1
+  - save_point_1
+  - save_point_2
+  - save_point_3
+  - Camera_Position
+  - Pointer
+  - snack
+  - snack_item
+  - NPC
+  - Trap
+  - Key
+  - Rock
+  - Enemy_Trap
+  - Rock_Hansel
+  - Player2
+  - snack_Ground
+  - cookie_position_change
+  - bridge2
+  - clock_tower
+  - clock_Lever
+  - elevator
+  - witch_hand
+  - closet
+  - closet2
+  - Clock_E
+  - Clock_W
+  - Clock_S
+  - Clock_N
+  - bridge3
+  - none_closet
+  - clock_closet
+  - clock_password
+  - clock_password2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - Camera_limit
+  - RAY_ONLY
+  - MAINPLAYER
+  - RAY_ONLY_HANSEL
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
